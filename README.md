@@ -4,8 +4,8 @@
 
 [nscale] is an open toolkit supporting configuration, build and deployment of connected container sets. __nscale__ is ideally used to support the development and operation of __microservice__ based systems.
 
-# Azure Virtual Network Container
-Manages the creation, deployment, linking and unlinking of Azure Virtual Networks for [nscale]. The
+# Azure Virtual Machine Container
+Manages the creation, deployment, linking and unlinking of Azure Virtual Machines for [nscale]. The
 azure-vm-analyzer is used internally by [nscale], see nscale's [documentation] for information on how
 to deploy using Azure as the target platform.
 
